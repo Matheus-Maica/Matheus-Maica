@@ -2,7 +2,7 @@
 </h1>
 
 ### A little about me...
-I'm a **Full Stack Developer** with 4+ years of experience and Math-Physics major. I work mainly with React and NestJS.<br/>
+I'm a **Full Stack Developer** with 4+ years of professional experience and Math-Physics major. I work mainly with React and NestJS.<br/>
 
 ### A few quick facts
 - 👨‍💻 &nbsp; The main tools and languages I use are: TypeScript, Node.js, MongoDB, Python, C++ and React.
